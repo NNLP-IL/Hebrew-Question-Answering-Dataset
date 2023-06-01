@@ -46,7 +46,7 @@ The table below shows the number of unique questions, paragraphs, and articles i
 | Articles         | 1481             | 2317     |
 
 ## Code
-The `Quality_control_Hebrew_QA.ipynb` file is a notebook used to extract specific data features that formed the basis for the validation process. The code for the web-based annotation interface used in this project can be found [here](link-to-the-code).
+The `Quality_control_Hebrew_QA.ipynb` file is a notebook used to extract specific data features that formed the basis for the validation process. The code for the web-based annotation interface used in this project can be found [here](https://github.com/NNLP-IL/Parashoot-Tagging).
 
 ### Paper
 https://u.cs.biu.ac.il/~yogo/heq.pdf
@@ -59,6 +59,6 @@ HeQ was annotated by Webiks for MAFAT, as part of the National Natural Language 
 Contributors: Hilla Merhav Fine (Webiks), Roei Shlezinger (Webiks), Amir David Nissan Cohen (MAFAT)
 Advisors: Reut Tsarfaty, Kfir Bar, Yoav Goldberg
 
-Acknowledgments
+## Acknowledgments
 We would like to express our gratitude to Omri Keren and Omer Levy, the creators of the original ParaShoot, the first question answering dataset in Hebrew, who also contributed to this project their annotation interface.
 We are also grateful to Geektime, for allowing us to annotate their articles and share the data as a public dataset.
