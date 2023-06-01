@@ -56,7 +56,9 @@ https://huggingface.co/amirdnc/HeQ
 
 ## Contributors
 HeQ was annotated by Webiks for MAFAT, as part of the National Natural Language Processing Plan of Israel. 
+
 Contributors: Hilla Merhav Fine (Webiks), Roei Shlezinger (Webiks), Amir David Nissan Cohen (MAFAT)
+
 Advisors: Reut Tsarfaty, Kfir Bar, Yoav Goldberg
 
 ## Acknowledgments
