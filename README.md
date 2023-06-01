@@ -62,5 +62,5 @@ Contributors: Hilla Merhav Fine (Webiks), Roei Shlezinger (Webiks), Amir David N
 Advisors: Reut Tsarfaty, Kfir Bar, Yoav Goldberg
 
 ## Acknowledgments
-We would like to express our gratitude to Omri Keren and Omer Levy, the creators of the original ParaShoot, the first question answering dataset in Hebrew, who also contributed to this project their annotation interface.
+We would like to express our gratitude to Omri Keren and Omer Levy, the creators of [the original ParaShoot](https://github.com/omrikeren/ParaShoot), the first question answering dataset in Hebrew, who also contributed to this project their annotation interface.
 We are also grateful to Geektime, for allowing us to annotate their articles and share the data as a public dataset.
