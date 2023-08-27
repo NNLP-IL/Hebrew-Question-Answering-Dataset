@@ -33,15 +33,15 @@ The table below shows the number of answerable and unanswerable questions in eac
 |------------------|------------------|----------|
 | Answerable       | 9987             | 9667     |
 | Unanswerable     | 3533             | 3955     |
-| Train            | 13622            | 13622    |
-| Val              | 536              | 522      |
-| Test             | 545              | 527      |
+| Train            | 13520            | 13622    |
+| Val              | 751              | 750      |
+| Test             | 754              | 750      |
 
 The table below shows the number of unique questions, paragraphs, and articles in each source and split of HeQ:
 
 |                  | Hebrew Wikipedia | Geektime |
 |------------------|------------------|----------|
-| Questions        | 13520            | 13622    |
+| Questions        | 15025            | 15122    |
 | Paragraphs       | 2006             | 2395     |
 | Articles         | 1481             | 2317     |
 
