@@ -54,6 +54,9 @@ https://u.cs.biu.ac.il/~yogo/heq.pdf
 ### Model
 https://huggingface.co/amirdnc/HeQ
 
+## Dataset (Huggingface)
+https://huggingface.co/datasets/pig4431/HeQ_v1
+
 ## Contributors
 HeQ was annotated by Webiks for MAFAT, as part of the National Natural Language Processing Plan of Israel. 
 
